@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "title": "Take out the trash",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Dinner with fiancee",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Meeting with Boss",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Going out with friends",
+    "completed": false
+  },
+  {
+    "id": 5,
+    "title": "Cleaning the house",
+    "completed": true
+  }
+]
